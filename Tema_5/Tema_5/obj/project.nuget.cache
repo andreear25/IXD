@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cu9dxmDfMYk8mUiymB30v0yLoYv/Ck/lBBR9HLLZAF+HgWjnOMqotmhzBQiN5SMER2Z6OANsY/Tndi4vv+15fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1912.Andreea\\Desktop\\tema 1\\Tema_5\\Tema_5\\Tema_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1912.Andreea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\1912.Andreea\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\1912.Andreea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\1912.Andreea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
