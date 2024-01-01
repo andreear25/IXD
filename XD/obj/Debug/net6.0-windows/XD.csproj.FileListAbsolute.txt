@@ -1,0 +1,7 @@
+C:\Users\1912.Andreea\Desktop\tema 1\XD\obj\Debug\net6.0-windows\XD.csproj.AssemblyReference.cache
+C:\Users\1912.Andreea\Desktop\tema 1\XD\obj\Debug\net6.0-windows\XD.Form1.resources
+C:\Users\1912.Andreea\Desktop\tema 1\XD\obj\Debug\net6.0-windows\XD.csproj.GenerateResource.cache
+C:\Users\1912.Andreea\Desktop\tema 1\XD\obj\Debug\net6.0-windows\XD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1912.Andreea\Desktop\tema 1\XD\obj\Debug\net6.0-windows\XD.AssemblyInfoInputs.cache
+C:\Users\1912.Andreea\Desktop\tema 1\XD\obj\Debug\net6.0-windows\XD.AssemblyInfo.cs
+C:\Users\1912.Andreea\Desktop\tema 1\XD\obj\Debug\net6.0-windows\XD.csproj.CoreCompileInputs.cache

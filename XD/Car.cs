@@ -8,17 +8,45 @@ namespace XD
 {
     public class Car
     {
-        public string color;
-        public string name;
-        public int maxspeed;
-        public int year;
+        private string color;
+        private string name;
+        private int maxspeed;
+        private int year;
 
-        public Car(string nameName, string colorName, int yearValue, int maxspeedValue)
+        public string Name
+        { 
+            get { return name; }
+            set { name = value; }
+        }
+
+        public string Color
+        {
+            get { return color; }
+            set { color = value; }
+        }
+
+        public int Year
+        {
+            get { return year; }
+            set
+            {
+                if (value < 1988)
+                {
+                    throw new Exception ("Please find a correct value");
+                }
+                else
+                {
+                    year = value;
+                }
+            }
+        }
+        public Car(string nameName, string colorName, int yearValue, int maxspeedValue, string eng_type)
         {
            color = colorName;
            name = nameName;
            maxspeed = maxspeedValue;
            year = yearValue;
+           engine_type = eng_type;
         }
         public Car(string nameName)
         {
